@@ -1,2 +1,2 @@
-# pumpfun-ethereum-SC
-This is pumpfun smart contact on ethereum
+# Mini_Ape_Lol_EVM_SmartContract
+Solidity Smart Contact For App.Ape.Lol
