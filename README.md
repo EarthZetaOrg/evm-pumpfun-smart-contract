@@ -1,5 +1,6 @@
-# Mini_Ape_Lol_EVM_SmartContract
-Solidity Smart Contact For pumpfun forking on EVM, pumpfun ethereum fork
+# EVM Pumpfun Smart Contract(fork of pump.fun), implementing main functionalities of pump fun
+Solidity Smart Contact For pumpfun forking on EVM, pump.fun ethereum fork.
+It's for offering basic understanding about pumpfun on evm.
 
 ### If you face difficulty or issues when you use it, feel free to reach out
 
