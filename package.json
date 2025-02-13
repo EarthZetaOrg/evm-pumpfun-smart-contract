@@ -1,12 +1,12 @@
 {
-  "name": "mini_ape_lol_evm_smartcontract",
+  "name": "evm-pumpfun-smart-contract",
+  "author": "earthzetaorg",
   "version": "1.0.0",
-  "description": "Solidity Smart Contact For App.Ape.Lol",
+  "description": "Solidity Smart Contact For EVM Pumpfun Smart Contract",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
   "license": "ISC",
   "devDependencies": {
     "@nomicfoundation/hardhat-chai-matchers": "^2.0.7",
